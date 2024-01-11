@@ -42,7 +42,7 @@ header h1 {
 }
 .quate{
   position: absolute;
-  top: 40px;
+  top: 100px;
   right: 50px;
   left: 50%;
   margin: 600px auto;
@@ -50,7 +50,7 @@ header h1 {
 }
 .owner{
   position: absolute;
-  top: 30px;
+  top: 120px;
   right: 70px;
   margin: 630px auto;
   left: 75%;
